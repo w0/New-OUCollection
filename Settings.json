@@ -1,0 +1,12 @@
+{
+    "ConfigMgr": {
+        "SiteCode": "ABC",
+        "Server": "SiteServer",
+        "ConsoleLocation": "DeviceCollection\\Your\\Path"
+    },
+    "AD": {
+        "SearchBase": "",
+        "LDAPFilter": "(!(name=*test*)"
+    },
+    "AreaID": ""
+}
