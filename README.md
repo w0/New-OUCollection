@@ -1,5 +1,5 @@
 # New-OUCollection
-Recursivley create OU based device collections in ConfigMgr
+Recursively create OU based device collections in ConfigMgr
 
 ## Setup
 
